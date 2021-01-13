@@ -20,5 +20,6 @@
         "mongoose",
         "express"
     ],
+    "engines": {"node": "10.13.0"},
     "license": "MIT"
 }
